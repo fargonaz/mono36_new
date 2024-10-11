@@ -1,5 +1,5 @@
 # Copyright (c) 2023 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-config SHIELD_MONO36
-    def_bool $(shields_list_contains,mono36)
+config SHIELD_MONO36_NEW
+    def_bool $(shields_list_contains,mono36_new)

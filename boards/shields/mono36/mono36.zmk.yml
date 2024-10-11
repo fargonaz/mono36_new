@@ -1,6 +1,6 @@
 file_format: "1"
-id: mono36
-name: MONO36
+id: mono36_new
+name: MONO36_NEW
 type: shield
 url: https://github.com/fargonaz/mono36
 requires: [pro_micro]
